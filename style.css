@@ -2,3 +2,8 @@ body {
     background-color: cornsilk;
 }
 
+#camera {
+    height: fit-content;
+    width: fit-content;
+    border-style: double;
+}
